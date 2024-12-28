@@ -24,3 +24,4 @@ Feature: Add to Cart
       Then I should see 2 "Blue Shoes" in the cart
 
 
+

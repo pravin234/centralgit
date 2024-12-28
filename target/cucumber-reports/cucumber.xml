@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="10.494" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Add to Cart" name="Add from Store - Add a single quantity from the Store - Example #1.1" time="6.455">
+<system-out><![CDATA[
+Given I am on the Store Page................................................passed
+When I add "Blue Shoes" to the cart.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Add to Cart" name="Add from Store - Add a single quantity from the Store - Example #1.2" time="3.774">
+<system-out><![CDATA[
+Given I am on the Store Page................................................passed
+When I add "Anchor Bracelet" to the cart....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

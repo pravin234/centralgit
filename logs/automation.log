@@ -71,3 +71,10 @@
 22:28:58.520 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Blue Shoes with quantity: 1
 22:28:58.799 [main] INFO  PageLayer.ProductPage - Clicked 'Add to Cart' for product: Blue Shoes (1/1)
 22:28:59.299 [main] INFO  PageLayer.ProductPage - Successfully added product: Blue Shoes to the cart with quantity: 1
+23:45:06.315 [main] INFO  UtilityLayer.ConfigReader - Configuration properties loaded successfully.
+23:45:10.287 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Blue Shoes with quantity: 1
+23:45:10.424 [main] INFO  PageLayer.ProductPage - Clicked 'Add to Cart' for product: Blue Shoes (1/1)
+23:45:10.931 [main] INFO  PageLayer.ProductPage - Successfully added product: Blue Shoes to the cart with quantity: 1
+23:45:14.484 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Anchor Bracelet with quantity: 1
+23:45:14.646 [main] INFO  PageLayer.ProductPage - Clicked 'Add to Cart' for product: Anchor Bracelet (1/1)
+23:45:15.160 [main] INFO  PageLayer.ProductPage - Successfully added product: Anchor Bracelet to the cart with quantity: 1
