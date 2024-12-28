@@ -1,0 +1,15 @@
+20:58:33.519 [main] INFO  UtilityLayer.ConfigReader - Configuration properties loaded successfully.
+20:58:37.610 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Blue Shoes
+20:58:37.838 [main] INFO  PageLayer.ProductPage - Successfully clicked 'Add to Cart' for product: Blue Shoes
+20:58:37.839 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Blue Shoes
+20:58:37.930 [main] INFO  PageLayer.ProductPage - Successfully clicked 'Add to Cart' for product: Blue Shoes
+20:58:37.930 [main] INFO  PageLayer.ProductPage - Attempting to click on the Cart button for product: Blue Shoes
+20:58:41.270 [main] INFO  PageLayer.ProductPage - Successfully clicked the Cart button.
+20:58:41.338 [main] INFO  PageLayer.ProductPage - Blue Shoes is present in the cart.
+20:58:45.391 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Anchor Bracelet
+20:58:45.591 [main] INFO  PageLayer.ProductPage - Successfully clicked 'Add to Cart' for product: Anchor Bracelet
+20:58:45.592 [main] INFO  PageLayer.ProductPage - Attempting to click on 'Add to Cart' button for product: Anchor Bracelet
+20:58:45.699 [main] INFO  PageLayer.ProductPage - Successfully clicked 'Add to Cart' for product: Anchor Bracelet
+20:58:45.699 [main] INFO  PageLayer.ProductPage - Attempting to click on the Cart button for product: Anchor Bracelet
+20:58:47.406 [main] INFO  PageLayer.ProductPage - Successfully clicked the Cart button.
+20:58:47.451 [main] INFO  PageLayer.ProductPage - Anchor Bracelet is present in the cart.
